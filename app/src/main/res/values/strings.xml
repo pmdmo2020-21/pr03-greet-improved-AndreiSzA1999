@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">Greet Improved</string>
+    <string name="app_name">Greet</string>
+    <string name="main_texto">Hola</string>
+    <string name="main_premium">Premium</string>
+    <string name="main_name">NAME</string>
+    <string name="main_surname">SURNAME</string>
+    <string name="main_Mr">Mr.</string>
+    <string name="main_Mrs">Ms.</string>
+    <string name="main_Ms">Mrs.</string>
+    <string name="main_treatment">Trearment</string>
+    <string name="main_Politelity">Politely</string>
+    <string name="main_greet">GREET</string>
+    <string name="chars">20 chars</string>
+    <string name="invalid_requiered">Required</string>
+    <string name="compra_premium">Para continuar tienes que adquirir la versión premium!</string>
+    <string name="falta_nombre_apellido">Tienes que poner tu nombre y tu apellido!</string>
+    <string name="politely">Good morning %1$s %2$s %3$s.\nPleased to meet you</string>
+    <string name="unpolite">Hello %1$s %2$s %3$s Whats up?</string>
+    <string name="contador">%1$s chars</string>
 </resources>
